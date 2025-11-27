@@ -1,0 +1,11 @@
+administrator
+admin
+backup
+support
+john
+alice
+guest
+service
+msfadmin
+operator
+root

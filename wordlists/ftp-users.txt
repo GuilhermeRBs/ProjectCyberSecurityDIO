@@ -1,0 +1,11 @@
+admin
+user
+test
+ftp
+service
+msfadmin
+anonymous
+guest
+john
+alex
+root
